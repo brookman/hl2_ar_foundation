@@ -1,0 +1,3 @@
+# hl2_ar_foundation
+
+Example Unity 2020.1 project which should show how to use AR Foundation with the Microsoft HoloLens 2. Currently it is not working yet...
